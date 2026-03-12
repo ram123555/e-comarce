@@ -31,17 +31,7 @@ const Footer = () => {
                 </a>
               </li>
 
-              <li>
-                <a href="/contact" className="text-white text-decoration-none">
-                  Contact
-                </a>
-              </li>
-
-              <li>
-                <a href="/cart" className="text-white text-decoration-none">
-                  Cart
-                </a>
-              </li>
+              
 
             </ul>
           </div>
