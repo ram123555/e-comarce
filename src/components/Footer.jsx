@@ -32,13 +32,13 @@ const Footer = () => {
               </li>
 
               <li>
-                <a href="/Contact" className="text-white text-decoration-none">
+                <a href="/contact" className="text-white text-decoration-none">
                   Contact
                 </a>
               </li>
 
               <li>
-                <a href="/Cart" className="text-white text-decoration-none">
+                <a href="/cart" className="text-white text-decoration-none">
                   Cart
                 </a>
               </li>
