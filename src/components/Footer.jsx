@@ -62,7 +62,7 @@ const Footer = () => {
         <hr className="border-light" />
 
         <div className="text-center">
-          © 2026 MyShop. All Rights Reserved
+          © 2026 MyShop. All Rights Reserved.
         </div>
 
       </div>
